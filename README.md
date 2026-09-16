@@ -1,114 +1,194 @@
-<h1 align="center">Hi 👋, I'm VENKATA VAMSI PEMMADA</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Venkata Vamsi Pemmada</h1>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=22a31a0551&label=Profile%20views&color=0e75b6&style=flat" alt="22a31a0551" />
+<h3 align="center">
+Java Full Stack Developer | Java Backend Developer | Spring Boot
+</h3>
+
+<p align="center">
+  <a href="https://venkatavamsiportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/venkatavamsipemmada">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vamsivenkata341@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=22a31a0551" alt="22a31a0551" />
-</a>
-</p>
+---
 
-* 🎓 B.Tech Computer Science & Engineering Graduate from Pragati Engineering College
+## 👨‍💻 About Me
 
-* 💻 Java Full Stack Developer passionate about building scalable web applications
+I'm a **Java Full Stack Developer** with a strong foundation in backend development and full-stack application development.
 
-* 🌱 Currently learning **Spring Boot, Spring Security, REST APIs, and Advanced Data Structures & Algorithms**
+I build web applications using **Java, Spring Boot, Spring Security, REST APIs, React.js, and relational databases**.
 
-* 👨‍💻 All of my projects are available at https://venkatavamsiportfolio.vercel.app/
+My focus areas include:
 
-* 💬 Ask me about **Java, Spring Boot, MySQL, React.js, REST APIs, Data Structures & Algorithms, Object-Oriented Programming**
+- Backend development with **Java & Spring Boot**
+- Building and consuming **RESTful APIs**
+- Secure application development using **Spring Security**
+- Full-stack development with **React.js**
+- Database-driven applications using **MySQL & PostgreSQL**
+- **Microservices architecture**
+- Object-Oriented Programming and **Data Structures & Algorithms**
+- Version control and collaborative development using **Git & GitHub**
 
-* 📫 How to reach me **[vamsivenkata341@gmail.com](mailto:vamsivenkata341@gmail.com)**
+🎓 **B.Tech – Computer Science & Engineering**  
+Pragati Engineering College | 2022 – 2026
 
-* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16WTavLoRhEv7FcTDgqt3WK5z4KViRR7P/view?usp=drive_link)
+---
 
-<h3 align="left">📌 Featured Projects:</h3>
+## 🚀 Featured Projects
 
-### 🏦 Srinu Bankers: Gold and Silver Loan Management System
+### 🏦 Srinu Bankers — Gold & Silver Loan Management System
 
-A comprehensive loan management application developed to streamline the process of managing gold and silver loans. The system maintains customer records, collateral details, repayment tracking, transaction history, and loan status management while ensuring transparency and efficient loan processing.
+A full-stack loan management application designed to streamline the management of gold and silver loans.
 
-**Tech Stack:** Java, Spring Boot, Spring Security, React.js, MySQL, REST APIs, JPA/Hibernate
+The application manages customer information, collateral details, repayments, transaction history, and loan status.
 
-### 🤖 Infosys Springboard Internship Project
+**Tech Stack**
 
-Successfully completed the Infosys Springboard Internship Program and worked on project development activities, problem-solving, and practical implementation of software development concepts. The internship provided hands-on industry exposure and strengthened my understanding of software engineering practices and teamwork.
+`Java` `Spring Boot` `Spring Security` `React.js` `MySQL` `JPA/Hibernate` `REST APIs`
 
-<h3 align="left">Connect with me:</h3>
+**Key Features**
 
-<p align="left">
+- Customer and loan management
+- Gold and silver collateral management
+- Loan repayment tracking
+- Transaction history management
+- Role-based authentication and authorization
+- RESTful API integration
+- Responsive dashboard interface
 
-<a href="https://www.linkedin.com/in/venkatavamsipemmada" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+---
 
-<a href="https://www.hackerrank.com/22a31a0551" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22a31a0551" height="30" width="40" />
-</a>
+### 🔧 ProjectNexus — Project Maintenance & Service Management Platform
 
-<a href="https://leetcode.com/u/Venkata-Vamsi/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Venkata-Vamsi" height="30" width="40" />
-</a>
+A full-stack platform designed to manage project maintenance, support requests, bug tracking, and feature enhancement workflows.
 
-</p>
+**Tech Stack**
 
-<h3 align="left">Languages and Tools:</h3>
+`Java` `Spring Boot` `Spring Security` `React.js` `MySQL` `JPA/Hibernate` `REST APIs`
 
-<p align="left">
+**Key Features**
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+- Role-based dashboards for **Admin, Manager, Developer, and Client**
+- Secure authentication and authorization
+- Project maintenance management
+- Service ticket management
+- Support request handling
+- Bug tracking
+- Developer assignment workflow
+- Feature enhancement management
+- RESTful backend architecture
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
+---
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+### 🤖 Cyber Risk Assessment & Threat Intelligence Platform
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+A cybersecurity-focused application developed during the **Infosys Springboard Internship Program** for assessing cyber risks and presenting vulnerability and threat intelligence data.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+**Key Areas**
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+- Cyber risk assessment
+- Vulnerability analysis
+- Threat intelligence
+- Risk scoring
+- Security data visualization
+- Interactive dashboard
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+## 🛠️ Technical Skills
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
-</p>
+### Languages
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=22a31a0551&show_icons=true&locale=en&layout=compact" alt="22a31a0551" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,mysql" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=22a31a0551&show_icons=true&locale=en" alt="22a31a0551" />
-</p>
+**Java • JavaScript • Python • SQL**
+
+### Backend
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=22a31a0551" alt="22a31a0551" />
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+**Spring Boot • Spring Security • REST APIs • JPA/Hibernate • Microservices**
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+**React.js • HTML5 • CSS3 • JavaScript**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+**MySQL • PostgreSQL**
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+**Git • GitHub • Docker • Postman**
+
+### Core Computer Science
+
+**Data Structures & Algorithms • Object-Oriented Programming • DBMS**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=22a31a0551&show_icons=true&theme=transparent&hide_border=true" alt="Vamsi's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22a31a0551&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=22a31a0551&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/venkatavamsipemmada">
+<img src="https://img.shields.io/badge/LinkedIn-Venkata%20Vamsi-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/Venkata-Vamsi/">
+<img src="https://img.shields.io/badge/LeetCode-Venkata%20Vamsi-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://www.hackerrank.com/22a31a0551">
+<img src="https://img.shields.io/badge/HackerRank-22a31a0551-green?style=for-the-badge&logo=hackerrank" />
+</a>
+
+<a href="mailto:vamsivenkata341@gmail.com">
+<img src="https://img.shields.io/badge/Email-vamsivenkata341%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Building scalable applications. Solving problems. Growing as a software engineer.</b>
 </p>
